@@ -1,3 +1,6 @@
 # bollybanty
-StartDotNG
-the process of learning programming
+Name:Akinremi Akinbola
+Email: akinremiakinbola@gmail.com
+Username: Bollybanty
+Tracks: Mobile and Design
+Course:kotlin,python,java,flutter
